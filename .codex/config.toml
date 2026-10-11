@@ -1,0 +1,9 @@
+
+# Project-level Codex configuration
+
+[agents]
+enabled = true
+
+# Limit specialist agents running at once.
+# Increase only after verifying stability and usage.
+max_concurrent_threads_per_session = 4

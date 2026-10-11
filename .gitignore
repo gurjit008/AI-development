@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.local/
+.venv/
+node_modules/
+docs/requirements/reference-extraction.json
+coverage/
+test-results/
